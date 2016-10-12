@@ -1,7 +1,7 @@
 Sales Taxes Calculator Application Instructions
 *This was my first attempt at creating a Java application and getting experience with File IO in Java.
 Getting used to using an IDE (NetBeans) and learning the Java language was challenging, but I found that
-being very expressive and by declaring variable types was helpful to keep track of variables. 
+being very expressive and declaring variable types was helpful to keep track of variables. 
 
 BUILD APP IN COMMAND LINE
 * In the root level of the project directory in the command line, enter commands in the following order:
